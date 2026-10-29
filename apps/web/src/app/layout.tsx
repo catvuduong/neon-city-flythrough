@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "neon-city-flythrough",
-  description: "neon-city-flythrough",
+  title: "Neon City Flythrough",
+  description: "A scroll-driven flight through a procedurally generated cyberpunk night city.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
